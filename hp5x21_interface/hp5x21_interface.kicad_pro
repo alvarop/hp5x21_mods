@@ -431,7 +431,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "hp5x21_rerouter.kicad_pro",
+    "filename": "hp5x21_interface.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -576,7 +576,7 @@
   },
   "sheets": [
     [
-      "147dcacc-9558-45be-bf0e-6ecfa3c0d955",
+      "f708918a-7356-4915-8fe5-f2aafcdd8717",
       "Root"
     ]
   ],
