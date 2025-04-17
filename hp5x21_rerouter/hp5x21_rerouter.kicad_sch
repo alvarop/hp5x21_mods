@@ -2122,7 +2122,7 @@
 		(uuid "96c128b6-3400-4dc3-bab9-56b47e3e4f43")
 	)
 	(label "~{C}_out"
-		(at 86.36 111.76 0)
+		(at 86.36 109.22 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2272,7 +2272,7 @@
 		(uuid "d204c036-5bd3-4abb-8e85-bceec00148c0")
 	)
 	(label "C"
-		(at 86.36 109.22 0)
+		(at 86.36 111.76 0)
 		(effects
 			(font
 				(size 1.27 1.27)
