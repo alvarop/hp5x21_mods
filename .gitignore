@@ -14,3 +14,4 @@ renders/
 *.lck
 *_old
 *.kicad_prl
+venv/
